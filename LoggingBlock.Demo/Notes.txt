@@ -1,0 +1,5 @@
+# Add EnterpriseLibrary
+
+1. install-package EnterpriseLibrary.Logging
+2. install the EnterpriseLibrary.Config extension for VS2015
+	https://randylevy.wordpress.com/2015/07/24/enterpriselibrary-config-for-vs2015/
